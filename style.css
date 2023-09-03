@@ -74,7 +74,7 @@ img {
   display: block;
 }
 
-.img-container {
+.hero .img-container {
   max-width: 400px;
   height: auto;
 }
@@ -91,4 +91,9 @@ img {
   font-size: 18px;
   border-radius: 6px;
   cursor: pointer;
+}
+
+.info .img-container {
+  max-width: 200px;
+  height: auto;
 }
