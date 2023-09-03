@@ -82,3 +82,13 @@ img {
 .img-container img {
   border-radius: 5px;
 }
+
+.signup {
+  background-color: #3882f6;
+  color: #fff;
+  border: none;
+  padding: 8px 36px;
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+}
