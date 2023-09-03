@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,300&display=swap');
 
 * {
   margin: 0;
@@ -110,6 +110,7 @@ img {
 .cards {
   display: flex;
   justify-content: center;
+  margin: 0 80px;
   margin-bottom: 80px;
   gap: 30px;
 }
@@ -120,4 +121,27 @@ img {
   text-align: center;
   align-items: center;
   gap: 10px;
+}
+
+.testimonial {
+  background-color: #e7e7e7;
+  padding: 80px;
+}
+
+.testimonial p {
+  margin: 0 80px;
+}
+
+.testimonial .message {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937
+}
+
+.testimonial .author {
+  font-size: 18px;
+  text-align: right;
+  color: #1f2937;
+  font-weight: bold;
 }
