@@ -10,3 +10,26 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+  gap: 18px;
+  list-style: none;
+}
+
+.menu a {
+  font-size: 18px;
+  list-style: none;
+  text-decoration: none;
+  color: #e5e7eb;
+}
