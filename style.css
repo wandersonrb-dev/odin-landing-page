@@ -27,6 +27,8 @@ img {
 .header {
   display: flex;
   justify-content: space-between;
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 .logo {
