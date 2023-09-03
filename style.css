@@ -49,3 +49,12 @@ img {
   text-decoration: none;
   color: #e5e7eb;
 }
+
+.img-container {
+  max-width: 400px;
+  height: auto;
+}
+
+.img-container img {
+  border-radius: 5px;
+}
